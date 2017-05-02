@@ -1,0 +1,4 @@
+﻿  KnapSack.cpp
+d:\school\3\algorithm\hw\hw2\hw2_knapsack_problem\hw2_knapsack_problem\knapsack.cpp(97): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\school\3\algorithm\hw\hw2\hw2_knapsack_problem\hw2_knapsack_problem\knapsack.cpp(104): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  HW2_KnapSack_Problem.vcxproj -> D:\school\3\Algorithm\HW\HW2\HW2_KnapSack_Problem\Debug\HW2_KnapSack_Problem.exe
